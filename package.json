@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/tjwebb/nex-api/issues"
   },
-  "homepage": "https://github.com/tjwebb/nex-api"
+  "homepage": "https://github.com/tjwebb/nex-api",
+  "dependencies": {
+    "npmlog": "^0.1.1"
+  }
 }
