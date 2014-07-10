@@ -18,15 +18,14 @@
     "build",
     "installer",
     "do",
-    "undo"
+    "undo",
+    "gulp",
+    "grunt"
   ],
   "author": "Travis Webb <me@traviswebb.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tjwebb/nex-api/issues"
   },
-  "homepage": "https://github.com/tjwebb/nex-api",
-  "dependencies": {
-    "npmlog": "^0.1.1"
-  }
+  "homepage": "https://github.com/tjwebb/nex-api"
 }
