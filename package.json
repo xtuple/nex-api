@@ -1,6 +1,6 @@
 {
   "name": "nex-api",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "nex-api",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tjwebb/nex-api.git"
+    "url": "git://github.com/xtuple/nex-api.git"
   },
   "keywords": [
     "nex",
@@ -25,7 +25,7 @@
   "author": "Travis Webb <me@traviswebb.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tjwebb/nex-api/issues"
+    "url": "https://github.com/xtuple/nex-api/issues"
   },
-  "homepage": "https://github.com/tjwebb/nex-api"
+  "homepage": "https://github.com/xtuple/nex-api"
 }
